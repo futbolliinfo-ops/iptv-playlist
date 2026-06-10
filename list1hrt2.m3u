@@ -1,6 +1,3 @@
-Këtu e ke listën të formatuar plotësisht në standardin M3U. Mund ta kopjosh këtë tekst, ta ruash si një skedar me prapashtesën .m3u (psh. lista.m3u) dhe ta ngarkosh direkt në çdo program apo aplikacion IPTV (si VLC, Smart IPTV, Tivimate, etj.).
-
-Code snippet
 #EXTM3U
 #EXTINF:-1,24Kitchen
 https://srv1.adriatelekom.com/24Kitchen/playlist.m3u8
